@@ -4,6 +4,9 @@
 
 This project fulfills the requirements of the task by creating a **Fibonacci number list** widget with scrollable functionality, a **BottomSheet** for filtering items based on their type, and interaction functionalities like tapping on numbers and selecting them. The app is built using **MVC (Model-View-Controller)** architecture with **ValueNotifier** as the state management solution. The project does not rely on any third-party libraries or external dependencies.
 
+The task description for this project can be found at the link below:
+[Mobile Assignment - Git Repository](https://git.7solutions.co.th/assignment_candidate/mobile_assignment)
+
 ## Features
 
 1. **Scrollable Widget**: 
